@@ -1,4 +1,4 @@
-#include <main.h>
+#include <stdio.h>
 
 /**
  * _puts - Print a string folllowed by a new line.
